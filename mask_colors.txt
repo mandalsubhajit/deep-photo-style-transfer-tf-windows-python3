@@ -1,0 +1,10 @@
+Color variable 	RGB Value 	Hex Value
+blue 	0 0 255 	0000ff
+green 	0 255 0 	00ff00
+black 	0 0 0 	000000
+white 	255 255 255 	ffffff
+red 	255 0 0 	ff0000
+yellow 	255 255 0 	ffff00
+grey 	128 128 128 	808080
+lightblue 	0 255 255 	00ffff
+purple 	255 0 255 	ff00ff
